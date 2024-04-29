@@ -2,3 +2,9 @@ header {
     background-color: rgb(89, 186, 133);
     color: rgb(255, 0, 208);
 }
+.escola{
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: rgb(95, 240, 172);
+    display: flex;
+    justify-content: center;
+}
